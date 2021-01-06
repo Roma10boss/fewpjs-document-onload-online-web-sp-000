@@ -4,5 +4,5 @@ document.addEventListener("DOMContentLoaded", function() {
 });
  
 console.log(
-  "This console.log() fires when index.js loads - before DOMContentLoaded is triggered"
+  "JavaScript is so cool. It lets me add text to my page programmatically"
 );
